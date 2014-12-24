@@ -6,7 +6,6 @@ $(function(){
 	// getting the id of the room from the url
 	var id = Number(window.location.pathname.match(/\/chat\/(\d+)$/)[1]);
 
-
 	var r = {};
 	var url = this.location.href;
 	var s1 = url.split('?');
@@ -14,8 +13,6 @@ $(function(){
 	var miuser = item[0];
 	var miemail = item[1];
 
-	
-    
     //http://desarrolloactivo.com:3000/chat/735426?estebanrfp&estebanrfp@gmail.com
 
 	// connect to the socket

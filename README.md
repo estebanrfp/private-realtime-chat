@@ -1,5 +1,7 @@
 Private Realtime Chat
 
+Chat con node.js
+
 Las variables son enviadas por url
 
 [channel]?[user]&[mail]

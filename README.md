@@ -9,3 +9,6 @@ Las variables son enviadas por url
 [channel]?[user]&[mail]
 
 http://localhost:3000/chat/735426?estebanrfp&estebanrfp@gmail.com
+
+Esteban Fuster Pozzi / @estebanrfp
+[desarrolloactivo.com](https://desarrolloactivo.com)
